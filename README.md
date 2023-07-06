@@ -38,12 +38,20 @@ Coming Soon... ⏳
 
 To get started with any project, follow these steps:
 
-1. Open your terminal or command prompt.
-2. Navigate to the corresponding project directory using the `cd` command.
-3. Inside the project directory, you will find a README file with detailed instructions for each task.
-4. Execute the provided scripts using the appropriate command.
-5. Make sure you have the necessary permissions to execute the scripts. If needed, adjust file permissions using the `chmod` command.
+### Usage Instructions
 
-Feel free to explore the projects at your own pace. If you have any questions or encounter any difficulties, don't hesitate to ask for help.
+To get started with any project, follow these steps:
+
+1. Open your terminal or command prompt.
+2. Clone the repository to your local machine using the command `git clone git@github.com:IsaMarvin/alx-system_engineering-devops.git`.
+3. Navigate to the corresponding project directory using the `cd` command.
+4. Inside the project directory, you will find a README file with detailed instructions for each task.
+5. Execute the provided scripts using the appropriate command.
+6. Make sure you have the necessary permissions to execute the scripts. If needed, adjust file permissions using the `chmod` command.
+
+
+
+
+Feel free to explore the projects at your own pace. If you have any questions or encounter any difficulties, don't hesitate to open an issue [issues page](../../issues).
 
 Happy scripting! 🎉
