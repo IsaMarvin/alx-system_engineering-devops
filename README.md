@@ -28,8 +28,12 @@ Tasks in the project include:
 
 To complete each task, navigate to the [0x01-shell_permissions](./0x01-shell_permissions) directory and follow the instructions provided in the [README](./0x01-shell_permissions/README.md) file.
 
+### [0x02-shell_redirections](./0x02-shell_redirections)
+Coming Soon... ⏳
+
 ### [0x03-shell_variables_expansions](./0x03-shell_variables_expansions)
 Coming Soon... ⏳
+
 ## Getting Started 🚀
 
 To get started with any project, follow these steps:
