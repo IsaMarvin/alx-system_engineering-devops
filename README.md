@@ -29,7 +29,18 @@ Tasks in the project include:
 To complete each task, navigate to the [0x01-shell_permissions](./0x01-shell_permissions) directory and follow the instructions provided in the [README](./0x01-shell_permissions/README.md) file.
 
 ### [0x02-shell_redirections](./0x02-shell_redirections)
-Coming Soon... ⏳
+
+Shell, I/O Redirections and Filters is a project focused on shell scripting and data manipulation in the command line environment. It offers a range of tasks to enhance your skills and familiarity with shell scripting concepts. 📝
+
+Tasks:
+
+- 1️⃣ Print "Hello, World" to the standard output.
+- 2️⃣ Display a confused smiley "(Ôo)'.
+- ...📖
+
+For detailed instructions and more tasks, please refer to the [README file](README.md) in the project repository.
+To complete each task, navigate to the [0x02-shell_redirections](./0x02-shell_redirections) directory and follow the instructions provided in the [README](./0x02-shell_redirections/README.md) file.
+
 
 ### [0x03-shell_variables_expansions](./0x03-shell_variables_expansions)
 Coming Soon... ⏳
