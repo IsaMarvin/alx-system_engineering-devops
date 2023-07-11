@@ -1,7 +1,7 @@
-# Shell Scripting Tasks
+# Shell, init files, variables, and expansions
 
-Here are some shell scripting tasks for you to explore and enhance your scripting skills. Each task has a specific objective and instructions to follow. Happy scripting! 🚀
-
+ This project focuses on shell scripting and variable expansions in the command line environment. It provides a set of tasks to enhance your skills and understanding of shell variables and their usage. Each task has a specific objective and instructions for completion. 📝
+ 
 ## Tasks
 
 0️⃣ Create an alias for the command 'ls' to execute 'rm *'.
