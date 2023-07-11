@@ -43,7 +43,19 @@ To complete each task, navigate to the [0x02-shell_redirections](./0x02-shell_re
 
 
 ### [0x03-shell_variables_expansions](./0x03-shell_variables_expansions)
-Coming Soon... ⏳
+
+The [0x03-shell_variables_expansions](./0x03-shell_variables_expansions) project focuses on shell scripting and variable expansions in the command line environment. It provides a set of tasks to enhance your skills and understanding of shell variables and their usage. Each task has a specific objective and instructions for completion. 📝
+
+Tasks:
+
+- 0️⃣ Create an alias named 'ls' with the value 'rm *'.
+- 1️⃣ Print "hello user", where 'user' is the current Linux user.
+- 2️⃣ Add '/action' to the PATH, making it the last directory to be searched when looking for a program.
+- 3️⃣ Count the number of directories in the PATH.
+- and more...
+
+To complete each task, navigate to the [0x03-shell_variables_expansions](./0x03-shell_variables_expansions) directory and follow the instructions provided in the [README](./0x03-shell_variables_expansions/README.md) file.
+
 
 ## Getting Started 🚀
 
